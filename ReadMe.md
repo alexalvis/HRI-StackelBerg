@@ -1,4 +1,4 @@
-You will see three different folders. There are readme files in every folder, which tells you the number of state that the robot arm has and the number of state that the robot base has.
+You will see five different folders, while you can ignore two folders: new_example, new_example_2. There are readme files in every folder, which tells you the number of state that the robot arm has and the number of state that the robot base has.
 
 You can ignore all the ".pkl" files because those are used to store file data. Just check the model.py and LP.py file.
 
